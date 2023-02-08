@@ -1,3 +1,3 @@
 #!/bin/bash
-touch $a 
-chmod u+x $a
+touch $1 
+chmod u+x $1
