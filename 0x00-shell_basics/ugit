@@ -1,4 +1,4 @@
 #!/bin/bash
 ./jgit $1
-vi $1 
+
 ./pgit $3 
