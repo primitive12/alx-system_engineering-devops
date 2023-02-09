@@ -1,4 +1,4 @@
 #!/bin/bash
 ./jgit $1
-
-./pgit $3 
+echo "$2"\n"$4"
+./pgit $4 
