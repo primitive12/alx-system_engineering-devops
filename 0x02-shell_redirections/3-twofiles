@@ -1,6 +1,2 @@
 #!/bin/bash
-echo "# User Database"
-cat /etc/passwd
-echo  " # Host Database "
- 
-cat  /etc/hosts
+cat /etc/passwd /etc/hosts
