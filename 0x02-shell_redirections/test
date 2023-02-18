@@ -1,0 +1,4 @@
+#!/bin/bash
+if ! ls -l |  grep -q " iacta "  ; then 
+echo "we found iacta "
+fi 
