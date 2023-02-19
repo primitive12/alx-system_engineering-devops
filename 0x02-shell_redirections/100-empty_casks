@@ -1,2 +1,2 @@
 #!/bin/bash
- du -a | sort | awk '{if ($1 == 0) print $0  }'
+find . -type f -size 0 -print
