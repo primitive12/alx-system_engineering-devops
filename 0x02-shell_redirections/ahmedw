@@ -1,0 +1,3 @@
+#!/bin/bash
+ahmedo= "hhhhhh" 
+echo ${ahmed:0:1}
